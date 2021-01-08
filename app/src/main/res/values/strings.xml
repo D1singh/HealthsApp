@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Healths</string>
+    <string name="edit_profile">edit profile</string>
+    <string name="lunch_time">LUNCH TIME</string>
+    <string name="breakfast_time">BREAKFAST TIME</string>
+    <string name="dinner_time">DINNER TIME</string>
+    <string name="food_time">FOOD TIME</string>
+    <string name="fruit_time">FRUIT TIME</string>
+    <string name="fitness_time">FITNESS TIME</string>
+</resources>
